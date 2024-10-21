@@ -1,0 +1,4 @@
+
+***daniel: problem about password, my password isnt working except i use the default password
+
+***daniel: my experience was bad, it keeps telling me wrong password. there's a lot of bug to fix in you code. i was receiving a lot of errors. there is only a 5% chance that you wont receive error while using your code

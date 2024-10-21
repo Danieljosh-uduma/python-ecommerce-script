@@ -1,0 +1,14 @@
+***2024-04-15 19:00:59.867590
+you bought ['corn: N2450 qty: 7', 'rice: N105000 qty: 7']
+and total money paid is N107450
+payment successful
+paid N107450
+Paid with bank card
+
+***2024-10-21 17:42:23.854148
+you bought ['rice: N45000 qty: 3', 'noodle: N2500 qty: 5', 'garri: N7500 qty: 3']
+and total money paid is N55000
+payment successful
+paid N55000
+Paid with bank card
+
